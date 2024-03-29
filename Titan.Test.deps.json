@@ -10,7 +10,6 @@
       "Titan.Test/1.0.0": {
         "dependencies": {
           "Bootstrapper.WindowsInstaller4_5": "1.0.0.1",
-          "DG.AdvancedDataGridView": "1.2.28405.11",
           "ExcelDataReader": "3.6.0",
           "ExcelDataReader.DataSet": "3.6.0",
           "IronXL.Excel": "2023.4.13",
@@ -36,14 +35,6 @@
       "Bootstrapper.WindowsInstaller4_5/1.0.0.1": {
         "dependencies": {
           "Bootstrapper.Common": "1.0.0.1"
-        }
-      },
-      "DG.AdvancedDataGridView/1.2.28405.11": {
-        "runtime": {
-          "lib/net5.0-windows7.0/AdvancedDataGridView.dll": {
-            "assemblyVersion": "1.2.28405.11",
-            "fileVersion": "1.2.28405.11"
-          }
         }
       },
       "ExcelDataReader/3.6.0": {
@@ -1215,13 +1206,6 @@
       "sha512": "sha512-JpAVgfFo75wSV2seRoj2BSmalcQkthxX19XoKdm+IFbhDb5Wt9mRu88AFdPYSSmUrXp1ErDtCqJPP56RFBiQRw==",
       "path": "bootstrapper.windowsinstaller4_5/1.0.0.1",
       "hashPath": "bootstrapper.windowsinstaller4_5.1.0.0.1.nupkg.sha512"
-    },
-    "DG.AdvancedDataGridView/1.2.28405.11": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-+io1iTDYp1TTsnPjaBnavP1vg9vodXvwX7EOhewR3CWz9tQjR0CZcBD7CX+PbwTZJBwaU7yi/Xm0rjhcbFpe0A==",
-      "path": "dg.advanceddatagridview/1.2.28405.11",
-      "hashPath": "dg.advanceddatagridview.1.2.28405.11.nupkg.sha512"
     },
     "ExcelDataReader/3.6.0": {
       "type": "package",
